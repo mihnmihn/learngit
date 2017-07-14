@@ -5,6 +5,7 @@ public class Demo {
 	public static void main(String[] args) {
 		
 		System.out.println("Git learning....");
-		System.out.println("hello jd");
+		System.out.println("hello jd 1");
+		System.out.println("hello jd 1");
 	}
 }
