@@ -6,6 +6,7 @@ public class Demo {
 		
 		System.out.println("Git learning....");
 		System.out.println("hello jd 1");
-		System.out.println("hello jd 1");
+		System.out.println("hello jd 2");
+		System.out.println("hello jd 3");
 	}
 }
